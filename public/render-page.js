@@ -13789,24 +13789,24 @@ module.exports = JSON.parse('{"data":{"wp":{"generalSettings":{"title":"Simple L
 /***/ }),
 
 /***/ "react-dom/server":
-/*!*****************************************************************************!*\
-  !*** external "/Users/samira/simple-life/node_modules/react-dom/server.js" ***!
-  \*****************************************************************************/
+/*!***************************************************************************************!*\
+  !*** external "/Users/samira/Documents/simple-life/node_modules/react-dom/server.js" ***!
+  \***************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/samira/simple-life/node_modules/react-dom/server.js");;
+module.exports = require("/Users/samira/Documents/simple-life/node_modules/react-dom/server.js");;
 
 /***/ }),
 
 /***/ "react":
-/*!************************************************************************!*\
-  !*** external "/Users/samira/simple-life/node_modules/react/index.js" ***!
-  \************************************************************************/
+/*!**********************************************************************************!*\
+  !*** external "/Users/samira/Documents/simple-life/node_modules/react/index.js" ***!
+  \**********************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/samira/simple-life/node_modules/react/index.js");;
+module.exports = require("/Users/samira/Documents/simple-life/node_modules/react/index.js");;
 
 /***/ }),
 
